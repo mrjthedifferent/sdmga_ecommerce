@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848935292073",
+    "project_id": "sdmga-ecommerce",
+    "storage_bucket": "sdmga-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848935292073:android:5b395a98b25d29f8446db8",
+        "android_client_info": {
+          "package_name": "com.sdmga.sdmga_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848935292073-od6ih5eorejjd8tf784g69b3hd5mffso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqSDkKy0oTVseu41_U8rWEj9ZpG-qB0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848935292073-od6ih5eorejjd8tf784g69b3hd5mffso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

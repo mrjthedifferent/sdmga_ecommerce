@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>848935292073-ck30kqg4udf4j9b0trj1hql97dau0ng4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.848935292073-ck30kqg4udf4j9b0trj1hql97dau0ng4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5ZTWIwIT3h56AUALhFChnhqRdsXbV1jY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>848935292073</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sdmga.sdmgaecommerce</string>
+	<key>PROJECT_ID</key>
+	<string>sdmga-ecommerce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sdmga-ecommerce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:848935292073:ios:e3db9de46215008b446db8</string>
+	<key>DATABASE_URL</key>
+	<string>https://sdmga-ecommerce-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
